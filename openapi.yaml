@@ -4,7 +4,7 @@ info:
   description: Finds up to date and detailed real estate properties for sale on the market
   version: 0.1.0
 servers:
-  - url: http://localhost:8080
+  - url: https://7v4lf05c-8080.inc1.devtunnels.ms/
 paths:
   /get-listings:
     get:
